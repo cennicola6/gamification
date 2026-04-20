@@ -16,6 +16,7 @@
 - Did not implement a GameRule that throws an exception
 - Did not implement function that returns the last number of points set and last badge he got
 - Did not implement upgrades (API classes, setCallback, GamificationListener, GameCondition)
+The assignment is incomplete
 
 
 ---
