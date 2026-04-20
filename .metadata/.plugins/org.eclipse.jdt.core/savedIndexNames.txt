@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Acer-Nicola\Desktop\gamification framework\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4063787794.index
+4278760981.index
