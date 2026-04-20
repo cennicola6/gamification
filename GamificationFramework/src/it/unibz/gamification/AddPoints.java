@@ -17,8 +17,10 @@ public class AddPoints implements GameRule {
     public void executeRuleAfterReturning(Object returned) {
     }
 
-    @Override
-    public void exectuteRuleAfterThrowing(Exception ex) {
-    }
+	@Override
+	public void exectuteRuleWhenException(Exception ex) {
+		// TODO Auto-generated method stub
+		
+	}
 
 }

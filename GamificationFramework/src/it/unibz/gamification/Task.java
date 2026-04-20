@@ -1,5 +1,6 @@
 package it.unibz.gamification;
 
-public class Task {
-
+public interface Task {
+	public Object execute() throws FailedExecutionException;
+	
 }

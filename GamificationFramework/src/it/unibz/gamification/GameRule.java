@@ -5,8 +5,6 @@ public interface GameRule {
 
     public void executeRuleAfterReturning(Object returned);
 
-    public void executeRuleAfterReturning(Object returned);
-
-    public void exectuteRuleAfterThrowing(Exception ex);
+    public void exectuteRuleWhenException(Exception ex);
 
 }
